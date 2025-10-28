@@ -27,3 +27,8 @@ The main goals of the **Smart Farming Platform** are to:
 | **Geospatial Data** | Google Earth Engine API, GDAL, Rasterio |
 | **APIs / Data Sources** | OpenWeatherMap, FAO, NASA MODIS, Soil Health Data |
 | **Version Control & Deployment** | GitHub, Docker, CI/CD |
+
+# Phase Status
+
+1. Conception Phase - Done
+2. Development Phase - under process
