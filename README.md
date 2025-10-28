@@ -22,7 +22,7 @@ The main goals of the **Smart Farming Platform** are to:
 | **Frontend** | Streamlit / React / Flutter |
 | **Backend** | FastAPI (Python) |
 | **Database** | PostgreSQL |
-| **Cloud Platform** | AWS / Google Cloud / Render |
+| **Cloud Platform** | AWS  |
 | **ML & Analytics** | TensorFlow, Scikit-learn, Pandas |
 | **Geospatial Data** | Google Earth Engine API, GDAL, Rasterio |
 | **APIs / Data Sources** | OpenWeatherMap, FAO, NASA MODIS, Soil Health Data |
