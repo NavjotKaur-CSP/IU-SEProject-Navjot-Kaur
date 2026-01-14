@@ -1,10 +1,9 @@
 # IU-SEProject-Navjot-Kaur
 # Smart Farming Platform
-# Problem Statement 
+# Abstract
+Agriculture is the main source of income for millions of people and plays an important role in the economy. Farmers face many problems such as unpredictable weather, poor soil quality, pest attacks and change in the market prices. These problems become more serious when farmers do not have access to the accurate and timely information especially in rural or small-scale farming. The Smart Farming Platform is a web-based application developed to help farmers make better farming decisions using data and technology. the platform combines real-time data, satellite images and AI to provide useful insights. It allows farmers to monitor crop health, predict crop yield, view weather and soil conditions and receive alerst when risks are detected. These features help farmers plan their farming activities more effectively. The system is built using a layered architecture to keep the design simple and organized. The frontend provides a user friendly interface for farmers while the backend processess data and manages system logic using FastAPI. PostgreSQL is used to store farming and user data safety. Machine learning tools are used to analyze data and generate predictions. External data sources such as Weather API. satellite data and agricultural datasets are integrated into the platform. Overall, the Smart Farming Platform shows how technology and data can support farmers, improve productivity and promote sustainable farming practices.
 
-Unpredictable weather, poor soil health, pest attacks and fluctuating market prices are just a few of the difficulties faced by farmers. They frequently lack simple access to resources that might enable them to fully understand the data and make better choices.Small and rural farmers find it challenging to use the majority of current farming systems because they are too complicated not available in local languages or require continuous internet access. Farmers find it difficult to obtain up-to-date information about their crops which results in decreased yields and lost revenue.A straightforward, intelligent agricultural platform that makes use of AI and real time data is required to assist farmers in tracking crop health, forecasting yields, and keeping up with market and weather trends. 
-
-# Goal 
+# Goal
 
 The main goals of the **Smart Farming Platform** are to:
 
@@ -28,7 +27,15 @@ The main goals of the **Smart Farming Platform** are to:
 | **APIs / Data Sources** | OpenWeatherMap, FAO, NASA MODIS, Soil Health Data |
 | **Version Control & Deployment** | GitHub, Docker, CI/CD |
 
+# Project Risks
+**1.Technical Risks -** Integrating multiple external APIs may increase system complexity and affect performance.
+**2.Connectivity Risks -** Limited or unstable internet connectivity in rural areas may affect real-time data access and platform usability.
+**3.Scalability Risks -** Handling increased user load and large datasets may require further optimization and infrastructure upgrades.
+**4.Data Accuracy Risks -** Incompleted or outdated weather, soil or satellite data may reduce the accuracy of crop health analysis and yield predictions.
+**5.Adoptation Risks -** Farmers may be hesitant to adopt new digital technologies due to the lack of technical knowledge or trust in AI-based systems.
+
 # Phase Status
 
 1. Conception Phase - Done
-2. Development Phase - under process
+2. Development Phase - Done
+3. Finalization Phase - Under process
