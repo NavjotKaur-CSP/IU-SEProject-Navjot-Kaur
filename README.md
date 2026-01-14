@@ -28,14 +28,13 @@ The main goals of the **Smart Farming Platform** are to:
 | **Version Control & Deployment** | GitHub, Docker, CI/CD |
 
 # Project Risks
-**1.Technical Risks -** Integrating multiple external APIs may increase system complexity and affect performance.
-**2.Connectivity Risks -** Limited or unstable internet connectivity in rural areas may affect real-time data access and platform usability.
-**3.Scalability Risks -** Handling increased user load and large datasets may require further optimization and infrastructure upgrades.
-**4.Data Accuracy Risks -** Incompleted or outdated weather, soil or satellite data may reduce the accuracy of crop health analysis and yield predictions.
-**5.Adoptation Risks -** Farmers may be hesitant to adopt new digital technologies due to the lack of technical knowledge or trust in AI-based systems.
+1. **Technical Risks -** Integrating multiple external APIs may increase system complexity and affect performance.
+2. **Connectivity Risks -** Limited or unstable internet connectivity in rural areas may affect real-time data access and platform usability.
+3. **Scalability Risks -** Handling increased user load and large datasets may require further optimization and infrastructure upgrades.
+4. **Data Accuracy Risks -** Incompleted or outdated weather, soil or satellite data may reduce the accuracy of crop health analysis and yield predictions.
+5. **Adoptation Risks -** Farmers may be hesitant to adopt new digital technologies due to the lack of technical knowledge or trust in AI-based systems.
 
 # Phase Status
-
 1. Conception Phase - Done
 2. Development Phase - Done
 3. Finalization Phase - Under process
