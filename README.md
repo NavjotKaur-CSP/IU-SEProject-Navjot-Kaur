@@ -18,14 +18,13 @@ The main goals of the **Smart Farming Platform** are to:
 # Tech Stack 
 | **Category** | **Chosen Technology** |
 |---------------|-----------------------|
-| **Frontend** | Streamlit / React / Flutter |
+| **Frontend** | React |
 | **Backend** | FastAPI (Python) |
 | **Database** | PostgreSQL |
-| **Cloud Platform** | AWS  |
 | **ML & Analytics** | TensorFlow, Scikit-learn, Pandas |
 | **Geospatial Data** | Google Earth Engine API, GDAL, Rasterio |
 | **APIs / Data Sources** | OpenWeatherMap, FAO, NASA MODIS, Soil Health Data |
-| **Version Control & Deployment** | GitHub, Docker, CI/CD |
+| **Version Control & Deployment** | GitHub, Render |
 
 # Project Risks
 1. **Technical Risks -** Integrating multiple external APIs may increase system complexity and affect performance.
